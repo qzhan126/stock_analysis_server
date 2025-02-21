@@ -1,5 +1,5 @@
 const express = require('express');
-const MLModelController = require('../controllers/MLModelController');
+const MLModelController = require('../controllers/mlModelController');
 
 const router = express.Router();
 
